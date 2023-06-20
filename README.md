@@ -29,3 +29,6 @@ Alternatively, the web application can be deployed to Heroku by following the in
 ## Conclusion:
 
 This project demonstrates how to build a machine learning model for breast cancer prediction and deploy it as a web application using Flask. The resulting web application allows users to input their own data and obtain a prediction of their breast cancer diagnosis.
+
+##Demo
+![](https://github.com/morteza-sharifi1/breast-cancer-prediction-app/blob/eb714a948ff3f4ede1adce46770db3ad37c69d80/static/demo.jpg)
